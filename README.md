@@ -1,1 +1,3 @@
-# Nguyentuananhcntt1707
+Với sự phát triển nhanh của công nghệ, lưu lượng những người sử dụng công nghệ ngày càng cao nó tỷ lệ thuận với lượng thông tin ngày càng lớn. Do đó việc bảo mật thông tin cũng được đặt lên hàng đầu. Một trong số đó là bảo mật tin nhắn âm thanh. Với ứng dụng bảo mật tin nhắn âm thanh mà nhóm tạo ra hiện nay có những chức năng cơ bản như chọn file trong máy, ghi âm trực tiếp sau đó mã hóa file và gửi sang phía người nhận. Sau đó người nhận có thể tải file và kiểm tra lại file đó. Ứng dụng này sử dụng ngôn ngữ python với các công nghệ chính như Kỹ thuật sinh khóa, kỹ thuật băm, giao thức bắt tay, kỹ thuật UUID cho ra một ứng dụng với đầy đủ các chức năng cần thiết. Và dưới đây chính là những bức ảnh minh họa
+![image](https://github.com/user-attachments/assets/edd47596-953b-43e8-aae4-861a1db72aed)
+![image](https://github.com/user-attachments/assets/bd03eaa6-57eb-4bf9-91a7-95186ddc2f43)
